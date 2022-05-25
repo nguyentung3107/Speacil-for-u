@@ -2,7 +2,7 @@
 const CONFIG = {
     introTitle: '🖐🖐🖐 Hee loo ! 🖐🖐🖐',
     introDesc: `Cậu chưa chào lại tớ hả 😠  `,
-    btnIntro: 'Chào 😓 ',
+    btnIntro: 'Chào cậu nhaaa 😉 ',
     title: 'Tớ biết cậu có nhiều điều muốn nói với tớ phải hong nè ? 😙',
     desc: 'Chắc là do cậu hâm mộ tớ quá hả 😳  ',
     btnYes: 'Đúng rồi đó, tớ hâm hộ cậu thực sự luônnn',
